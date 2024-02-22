@@ -29,15 +29,3 @@ To start the project, run the command `npm start` in the project directory (by d
 
 The project is proprietary software and does not have a public license. All rights are reserved by VK Vattenskoterutbildning. Unauthorized use, reproduction, or distribution of the software is strictly prohibited. Please contact [Contact Email/Website] for more information regarding licensing and usage permissions.
 
-**Contact**
-
-Please contact [Contact Email/Website] for more information regarding this project.
-
-**FAQs**
-
-Include a list of frequently asked questions and their answers. This can help users quickly find solutions to common issues.
-
-**Troubleshooting**
-
-Offer troubleshooting tips and solutions for common problems users might encounter while using the project.
-
