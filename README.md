@@ -6,32 +6,6 @@
 
 This project aims to create the foundation of a website which will work as a platform for people trying to get a water scoter license. The main functionality for the website is to display the chapters and subchapters of the theory needed to get the license. The website also differentiates between different kinds of users; students, moderators and supermoderators. **The intention is for moderators to be able to overview all their students' progress, although this has not been implemented yet.**
 
-***DAT257 specific information* - *to be removed after course/grading***
-
-
-**Members**
-
-Lucas Edeslätt
-
-Cecilia Nyberg
-
-Oliver Brink
-
-Wilhelm Swegmark
-
-Jonas Röst
-
-Maximilian Forsell
-
-**Trello: <https://trello.com/invite/b/iCLQVjto/ATTIa6357f14715b7ee1242d1548dd61dbdf4014B3D6/scrum-board>** 
-
-**Drive: <https://drive.google.com/drive/folders/1JbtqVFnbSp98chQEPQOnpZDIlqL-ChxE?usp=sharing>** 
-
-**Github repo: <https://github.com/cecnyb/AgileSoftwareProject>** 
-
-***End of DAT257 specific information***
-
-
 **Installation**
 
 The project uses the React framework, and as such node.js is required. The project also uses Firebase for managing users and the included Firestore as a database.
